@@ -1,0 +1,79 @@
+Cybersecurity Cookbook: Understanding Phishing Attacks
+Table of Contents
+Introduction to Phishing
+Types of Phishing Attacks
+How Phishing Attacks Work
+Recognizing Phishing Attempts
+Preventing Phishing Attacks
+Responding to Phishing Attacks
+1. Introduction to Phishing
+Phishing is a type of cyber attack where attackers attempt to deceive individuals into providing sensitive information, such as usernames, passwords, and credit card details. This is typically done by masquerading as a trustworthy entity in electronic communications.
+
+2. Types of Phishing Attacks
+Email Phishing
+Attackers send fraudulent emails that appear to come from reputable sources, such as banks or online services, asking recipients to click on a link or download an attachment.
+
+Spear Phishing
+A more targeted form of phishing where attackers customize their messages based on information about the victim to make the attack more convincing.
+
+Whaling
+A type of spear phishing that targets high-profile individuals like executives or government officials.
+
+Smishing
+Phishing attempts conducted via SMS messages, urging recipients to click on a link or call a number.
+
+Vishing
+Phishing conducted over the phone, where attackers impersonate legitimate organizations to extract sensitive information.
+
+Clone Phishing
+Attackers create a near-identical replica of a legitimate message previously sent by an organization, changing only the link or attachment to something malicious.
+
+3. How Phishing Attacks Work
+Phishing attacks generally follow a common process:
+
+Preparation: Attackers gather information about the target to make the phishing attempt more convincing.
+Execution: The phishing message is sent to the target, often containing a sense of urgency or threat to prompt quick action.
+Exploitation: The target interacts with the phishing message (e.g., clicks a link or downloads an attachment) and provides sensitive information.
+Monetization: Attackers use the obtained information for financial gain, identity theft, or further attacks.
+4. Recognizing Phishing Attempts
+Signs of Phishing Emails
+Suspicious Sender Address: Check if the sender’s email address is legitimate and matches the organization's domain.
+Generic Greetings: Phishing emails often use generic greetings like "Dear Customer" instead of your name.
+Urgent or Threatening Language: Phishing messages often create a sense of urgency or fear to prompt immediate action.
+Suspicious Links or Attachments: Hover over links to see the actual URL, and be wary of unexpected attachments.
+Poor Grammar and Spelling: Many phishing emails contain spelling and grammatical errors.
+Signs of Phishing Websites
+URL Mismatch: Ensure the website URL matches the legitimate site.
+Lack of Security Features: Check for HTTPS in the URL and a valid security certificate.
+Unusual Requests: Be cautious if the site asks for sensitive information unexpectedly.
+5. Preventing Phishing Attacks
+Education and Awareness
+Training: Regularly educate employees and individuals on recognizing phishing attempts.
+Simulated Attacks: Conduct phishing simulations to test and improve awareness.
+Technical Measures
+Email Filters: Use email filtering solutions to detect and block phishing emails.
+Multi-Factor Authentication (MFA): Implement MFA to add an extra layer of security.
+Anti-Phishing Software: Use anti-phishing software to detect and block phishing attempts.
+Personal Precautions
+Verify Before Clicking: Always verify the legitimacy of an email or message before clicking on links or providing information.
+Report Suspicious Emails: Report phishing attempts to your IT department or email provider.
+Update Software: Keep software and security measures up to date to protect against vulnerabilities.
+6. Responding to Phishing Attacks
+If You Receive a Phishing Email
+Do Not Click: Do not click on any links or download attachments.
+Report It: Report the email to your IT department or email provider.
+Delete It: Delete the phishing email from your inbox.
+If You Fall Victim to a Phishing Attack
+Change Passwords: Immediately change the passwords of the compromised accounts.
+Contact Organizations: Notify the organizations affected (e.g., your bank, email provider).
+Monitor Accounts: Keep an eye on your accounts for any suspicious activity.
+Report the Incident: Report the incident to your IT department and possibly to relevant authorities.
+By understanding phishing attacks and implementing preventative measures, individuals and organizations can significantly reduce the risk of falling victim to these common cyber threats.
+
+Note: Once you have prepared your content, you can post it to your GitHub repository as a Markdown file for easy sharing and collaboration.
+
+Steps to Post on GitHub
+Create a GitHub Repository: If you don't have one, create a new repository on GitHub.
+Add a README File: This will be the main file for your cookbook. You can add your content here.
+Commit and Push: Save your changes and push them to the GitHub repository.
+Share the Repository: Share the link to your repository with your faculty or classmates.
